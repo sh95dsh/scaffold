@@ -1,4 +1,4 @@
-name: Python application test for Azure Python 3.5
+name: Python application test with Azure Shell
 on: [push]
 
 jobs:
