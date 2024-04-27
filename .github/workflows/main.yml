@@ -2,7 +2,7 @@
 
 # GitHub Actions Workflow YAML
 
-name: Python application test with GitHub Actions
+name: Python application test with AWS
 on: [push]
 
 jobs:
